@@ -1,4 +1,5 @@
 # 🎓 轉學考資訊與 AI 諮詢系統 (Transfer Exam Information System)
+<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/1d40cc1e-5f15-4688-80e0-5975d87d953d" />
 
 > **作業性質**：個人作業 (基於 Antigravity Skill 設計)
 > **專案目標**：打造一個整合爬蟲、RAG 與 LLM 應用的全端系統
